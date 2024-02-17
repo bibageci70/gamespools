@@ -1,0 +1,2 @@
+# gamespools
+ini adalah aku
